@@ -156,7 +156,7 @@ if __name__ == "__main__":
                 bookstore.place_order(username)
             
             elif choice == '8':
-                print("Exiting the program.")
+                print("Exiting the program")
                 break
             else:
                 print("Invalid choice. Please enter a valid option.")
